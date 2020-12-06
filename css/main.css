@@ -1,0 +1,39 @@
+body {
+	font-size: 14px;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 22px;
+}
+
+.hr-color {
+	border-color: #808080;
+}
+
+.header-block {
+	min-height: 6rem;
+}
+
+.dark-gray {
+	color: #fff;
+	background-color: #8d8d8d;
+}
+
+.light-gray {
+	color: #8c8c8c;
+	background-color: #e4e4e4;
+}
+
+a {
+	text-decoration: underline;
+}
+
+.list-style {
+	list-style: square;
+}
+
+.block {
+	height: 8rem;
+}
+
+.footer .dark-gray {
+	min-height: 6rem;
+}
